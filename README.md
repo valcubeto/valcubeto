@@ -1,32 +1,20 @@
-# Hi
-My name is Valentín. I'm a *junior* Rust / TypeScript developer, focused on backend and systems programming.
+# **Linux System Administrator | Automation & Programming**
 
-## About Me
-- I'm 18 years old
-- I just finished school and I'm saving money for university at this moment
-- Planning to pursue a degree in Computer Engineering
-- Using JavaScript/TypeScript for personal proyects since 2021 (5+ years)
-- Using Rust for CLI tools and low-level projects since 2024 (2+ years)
-- Spanish level: native
-- English level: C2 (able to read, write, and communicate technical content)
+Argentina · Remote
 
-## Skills
-- Linux commands
+## whoami
+Hi. I'm Val, a Linux system administrator with strong programming skills and 6+ years of technical experience. <br>
+Experienced with Linux systems, shell scripting, system administration, networking, and low-level programming; <br>
+interested in infrastructure, automation, cybersecurity, and systems programming.
+
+## Technical Skills
+- GNU/Linux commands, filesystem management, users, groups, permissions, processes, services, etc
+* Network protocols, SSH, system networking
+- Bash and Fish scripting
 - Solid low-level fundamentals
-- Bash scripting
-- Languages: JavaScript, TypeScript, Rust, C (basic), Python (basic)
-- PostgreSQL (basic)
-
-## Currently Learning
-- [The Rust `std` library](https://doc.rust-lang.org/std/io/index.html)
-- Cargo tools (for testing)
-- Database-related technologies
-- Docker
-- CI/CD practices
-- AI-related technologies
-
-## Weaknesses
-- No experience with Windows scripting or Windows-specific commands
+- Rust (advanced), JavaScript/TypeScript (advanced), Python (basic), C (basic)
+- **Tools:** Git, Cargo, Bun, Docker
+- **Databases:** PostgreSQL
 
 ## Work Style
 - Clean, consistent, and modular code
@@ -34,11 +22,34 @@ My name is Valentín. I'm a *junior* Rust / TypeScript developer, focused on bac
 - Well-documented code
 - Avoid unnecesary complexity
 - Balance between extensibility (programmer), performance (application), and usability (user interface)
-- Tools designed to be *reliable* and easy to reason about
+- Tools designed to be reliable and easy to reason about
 
-## Certificates
-See [`CERTIFICATES.md`](https://github.com/valcubeto/valcubeto/CERTIFICATES.md).
+## Projects
 
-## Proyects
-- A [high-level programming language](https://github.com/valcubeto/vega)
-- CLI tool to 
+=== **pathcheck CLI Tool (Rust)** ===<br>
+I created and published a command-line utility for managing and inspecting PATH entries. [See here](https://github.com/valcubeto/pathcheck).
+
+=== **The Vega programming language** ===<br>
+A small programming language. [See here](https://github.com/valcubeto/vega).
+
+=== **safewrap lib (TypeScript)** ===<br>
+I created a TypeScript library inspired by Rust's `Result` and `Option` types.
+
+=== **mdreader (Rust)** ===<br>
+A terminal Markdown renderer. [See here](https://github.com/valcubeto/mdreader).
+
+## Education
+
+* Self-taught programmer (since 2020)
+* Cybersecurity and server administration courseworks at UTN FRD (2026)
+* Programming olympiad experience (2025)
+
+## Certification
+- **Red Hat Certified System Administrator (RHCSA)**
+
+
+Spanish level: native
+English level: C1+
+
+
+> This presentation was not AI-generated.
