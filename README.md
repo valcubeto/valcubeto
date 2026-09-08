@@ -26,11 +26,14 @@ interested in infrastructure, automation, cybersecurity, and systems programming
 
 ## Projects
 
-=== **pathcheck CLI Tool (Rust)** === <br>
-I created and published a command-line utility for managing and inspecting PATH entries. [See here](https://github.com/valcubeto/pathcheck).
-
 === **The Vega programming language** === <br>
 A small programming language. [See here](https://github.com/valcubeto/vega).
+
+=== **Small chat app (TypeScript, PostgreSQL)** === <br>
+A chat app I use with friends. Users, auth, sessions, group and DM chats, messages, message reactions, etc.
+
+=== **pathcheck CLI Tool (Rust)** === <br>
+I created and published a command-line utility for managing and inspecting PATH entries. [See here](https://github.com/valcubeto/pathcheck).
 
 === **safewrap lib (TypeScript)** === <br>
 I created a TypeScript library inspired by Rust's `Result` and `Option` types.
