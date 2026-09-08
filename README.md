@@ -48,8 +48,9 @@ A terminal Markdown renderer. [See here](https://github.com/valcubeto/mdreader).
 - **Red Hat Certified System Administrator (RHCSA)**
 
 
-Spanish level: native
-English level: C1+
+_Spanish level: native_
+
+_English level: C1+_
 
 
 > This presentation was not AI-generated.
