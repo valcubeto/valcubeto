@@ -26,16 +26,16 @@ interested in infrastructure, automation, cybersecurity, and systems programming
 
 ## Projects
 
-=== **pathcheck CLI Tool (Rust)** ===<br>
+=== **pathcheck CLI Tool (Rust)** === <br>
 I created and published a command-line utility for managing and inspecting PATH entries. [See here](https://github.com/valcubeto/pathcheck).
 
-=== **The Vega programming language** ===<br>
+=== **The Vega programming language** === <br>
 A small programming language. [See here](https://github.com/valcubeto/vega).
 
-=== **safewrap lib (TypeScript)** ===<br>
+=== **safewrap lib (TypeScript)** === <br>
 I created a TypeScript library inspired by Rust's `Result` and `Option` types.
 
-=== **mdreader (Rust)** ===<br>
+=== **mdreader (Rust)** === <br>
 A terminal Markdown renderer. [See here](https://github.com/valcubeto/mdreader).
 
 ## Education
@@ -48,8 +48,7 @@ A terminal Markdown renderer. [See here](https://github.com/valcubeto/mdreader).
 - **Red Hat Certified System Administrator (RHCSA)**
 
 
-_Spanish level: native_
-
+_Spanish level: native_ <br>
 _English level: C1+_
 
 
